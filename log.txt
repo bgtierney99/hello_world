@@ -1,0 +1,23 @@
+commit 6b349eb048f0d94d3a1946c5b4cad69de735478d
+Author: Greatgamer7 <anthony.neves77@gmail.com>
+Date:   Mon Apr 16 15:33:20 2018 -0400
+
+    Name Added to README
+
+commit 2b6608a658bdf4a112017ce8ae048ab85b5b663b
+Author: bgtierney99 <brendan_tierney@my.uri.edu>
+Date:   Mon Apr 16 15:32:17 2018 -0400
+
+    fixed main
+
+commit f8a7bcf2ff2cedabaae884b0ed22b91d9e04f51f
+Author: bgtierney99 <brendan_tierney@my.uri.edu>
+Date:   Mon Apr 16 15:17:15 2018 -0400
+
+    wrote hello world
+
+commit 69cf66d2134cd3d466196e3e125ae093c35f9dcd
+Author: bgtierney99 <brendan_tierney@my.uri.edu>
+Date:   Mon Apr 16 14:58:45 2018 -0400
+
+    Initial commit
